@@ -1,0 +1,48 @@
+_repo: The-Mill-on-the-Floss_6688
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eliot, George
+    aliases:
+    - Evans, Marian
+    - Lewes, M. E. (Marian Evans)
+    - Lewes, Marian Evans
+    - Cross, Marian Evans
+    - Cross, Mary Ann
+    - Evans, Mary Anne
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+description: '"This Eliot novel tells the story of Tom and Maggie Tulliver, a pair
+  of siblings who grow up together on a river in early nineteenth century England.
+  While Tom''s reserved nature and Maggie''s idealism produce differences that strain
+  their love in time of hardship, the two ultimately reconcile when confronted with
+  certain death. A powerful work on individual tenacity in the face of oppressive
+  circumstance, The Mill on the Floss remains one of Eliot''s most powerful works
+  on unconditional solidarity and love."--Back cover'
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Water mills -- Fiction'
+- !lcsh 'Conflict of generations -- Fiction'
+- !lcsh 'Loss (Psychology) -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Vendetta -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Young women -- Fiction'
+- GITenberg
+title: The Mill on the Floss
+url: http://www.gutenberg.org/ebooks/6688
