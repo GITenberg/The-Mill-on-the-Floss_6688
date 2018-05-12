@@ -1,5 +1,8 @@
 _repo: The-Mill-on-the-Floss_6688
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eliot, George
@@ -22,6 +25,8 @@ description: '"This Eliot novel tells the story of Tom and Maggie Tulliver, a pa
   certain death. A powerful work on individual tenacity in the face of oppressive
   circumstance, The Mill on the Floss remains one of Eliot''s most powerful works
   on unconditional solidarity and love."--Back cover'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6688#The-Mill-on-the-Floss
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
